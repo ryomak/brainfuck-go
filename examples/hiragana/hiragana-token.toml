@@ -1,0 +1,9 @@
+[Commands]
+NEXT="あ"
+PREV ="い"
+INC  ="う"
+DEC  ="え"
+READ ="お"
+WRITE="か"
+OPEN ="き"
+CLOSE="く"

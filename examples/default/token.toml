@@ -1,0 +1,9 @@
+[Commands]
+NEXT=">"
+PREV ="<"
+INC  ="+"
+DEC  ="-"
+READ =","
+WRITE="."
+OPEN ="["
+CLOSE="]"
